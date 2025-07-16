@@ -1,4 +1,4 @@
-# Exercise 2 Shopping CArt Program
+# Exercise 2 Shopping Cart Program
 
 item = str(input('Enter item: '))
 price = float(input('Enter price: '))
